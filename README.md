@@ -4,6 +4,6 @@ Static GitHub Pages site, published from main/root. No scripts, trackers or cook
 
 Privacy: https://hory80.github.io/prismduel-site/privacy/
 
-Support email is deliberately a placeholder until the owner supplies an address. Before App Store release, complete the privacy policy contact and verify configured Firebase retention.
+Support: rosca.apps@gmail.com. Developed by Horatiu Rosca, Switzerland. The privacy page covers optional Firebase analytics, Game Center and the non-consumable Full Game in-app purchase. Direct App Store release.
 
 Only approved logo and a real gameplay screenshot are published. Game source remains private.
